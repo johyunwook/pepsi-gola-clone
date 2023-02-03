@@ -29,5 +29,9 @@
   a{
     color: white;
     margin: 10px;
-    
+  }
+  .hero{
+    width: 800px;
+    margin: 0 auto;  /*수평-중앙 배치*/
+    padding: 30px 0; /*상,하 50픽셀*/
   }
