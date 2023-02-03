@@ -10,3 +10,13 @@
     margin: 0;   /*(안)여백 : 없음*/
     padding: 0;; /*(바깥)여백 : 없음*/
   }
+  
+  a{
+    color: red;
+    text-decoration: none;
+  }
+  .logo{
+    width: 100px;
+    margin: 0 auto;  /*수평-중앙 배치*/
+    padding: 50px 0; /*상,하 50픽셀*/
+  }
